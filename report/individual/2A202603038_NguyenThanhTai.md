@@ -7,7 +7,7 @@
 - Họ tên: Nguyễn Thành Tài
 - MSSV: 2A202603038
 - Email: thanhtai5223@gmail.com
-- Lớp: 2A202603038
+- Lớp: E402
 - Link repo bài làm: https://github.com/NTT19/K5-L2A-DAY02-NguyenThanhTai-2A202603038-ObjectDetection.git
 - Link Colab đã chạy: https://colab.research.google.com/drive/1BGZtBpXtQnl6AUkRg8LFmvtS55hywkC0?usp=sharing
 
