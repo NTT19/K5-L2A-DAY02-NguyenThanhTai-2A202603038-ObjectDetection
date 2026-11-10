@@ -6,7 +6,11 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
 | --- | --- | --- |
+<<<<<<< HEAD
 | `car` | Phương tiện giao thông chở người, thường có 4 bánh, thiết kế thân xe kín, kích thước nhỏ hoặc trung bình| Sedan, SUV, hatchback, coupe... |
+=======
+| `car` | Là phương tiện giao thông chở người, thường có 4 bánh, thiết kế thân xe kín, kích thước nhỏ hoặc trung bình| Sedan, SUV, hatchback, coupe... |
+>>>>>>> 7a57c91 (update guideline mini, labels train)
 | `truck` | Phương tiện vận tải hàng hóa có khoang chở hàng riêng biệt hoặc thùng hàng phía sau cabin| Xe tải thùng, xe tải ben, xe đầu kéo|
 | `bus` | Phương tiện vận tải hành khách có kích thước lớn, khoang hành khách rộng và nhiều cửa sổ| Xe buýt nội thành, xe khách liên tỉnh, xe buýt mini|
 | `van` | Phương tiện có thân xe dạng hộp, khoang phía sau cabin được thiết kế để chở người hoặc hàng hóa, thường nhỏ hơn xe buýt và xe tải| Minivan, passenger van, cargo van...|
