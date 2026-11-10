@@ -78,11 +78,11 @@ Lệnh này kiểm tra đủ 50 file, đúng basename, năm cột, ID lớp và 
 
 Checklist trước khi khóa nhãn:
 
-- [ ] Có đúng 50 file `.txt` trong `dataset/labels/train/`.
-- [ ] Mỗi xe thuộc schema đã có một box; không bỏ sót xe bị che/cắt khung có thể nhận diện.
-- [ ] Không có box lỏng hoặc gộp hai xe thành một box.
-- [ ] Không nhầm `truck`, `bus`, `car`, `van`.
-- [ ] `GUIDELINE_MINI.md` nêu định nghĩa lớp và ít nhất ba quyết định mơ hồ.
+- [x] Có đúng 50 file `.txt` trong `dataset/labels/train/`.
+- [x] Mỗi xe thuộc schema đã có một box; không bỏ sót xe bị che/cắt khung có thể nhận diện.
+- [x] Không có box lỏng hoặc gộp hai xe thành một box.
+- [x] Không nhầm `truck`, `bus`, `car`, `van`.
+- [x] `GUIDELINE_MINI.md` nêu định nghĩa lớp và ít nhất ba quyết định mơ hồ.
 
 ## 4. Chấm nhãn với ground truth
 
